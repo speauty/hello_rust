@@ -8,7 +8,7 @@
 卸载: `rustup self uninstall`
 
 
-当前仓库使用版本: ``
+当前仓库使用版本: `rustc 1.80.1 (3f5fd8dd4 2024-08-06)`
 
 创建项目: `cargo new project_name`
 
@@ -17,3 +17,5 @@
 编译项目: `cargo build [--release, 是否以release模式运行]`
 
 检测编译: `cargo check`
+
+更新依赖: `cargo update [-p regex, 更新指定依赖]`
